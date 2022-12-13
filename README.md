@@ -17,6 +17,8 @@ pip install -r requirements.txt
 
 ## Usage
 
+cd "/root/Sublist3r/"
+
 ```bash
 usage: scrap.py [-h] [--domain DOMAIN] [--url_list URL_LIST]
                 [--threads THREADS] [--ports PORTS] [--dir DIR]
